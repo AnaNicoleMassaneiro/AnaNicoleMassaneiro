@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working at **IBM**
-- 🌱 I’m currently learning **Microservices and .Net core**
+- 🌱 I’m currently learning **AWS and Java with Spring Boot**
 - ⚙️ I use daily: `.ts`, `.java`, `.js`, `.cs`, `.dart`
 - ⚡ Fun fact: I've been a musician for over 14 years
 
