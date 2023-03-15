@@ -6,7 +6,7 @@
 - ⚙️ I use daily: `.ts`, `.java`, `.js`, `.cs`, `.dart`
 - ⚡ Fun fact: I've been a musician for over 14 years
 
-## Site Oficial - <a href="https://ananicolemassaneiro.github.io/" alt="Perfil Online" target="_blank">Perfil Online</a>
+## <a href="https://ananicolemassaneiro.github.io/" alt="Perfil Online" target="_blank">Site</a>
 
 
 ### Find me around the web 🌎:
