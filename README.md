@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working at **IBM**
 - 📖 I'm graduated, post graduated and studying master's degree in informatics at UFPR
-- 🌱 I’m currently learning **AWS and Java with Spring Boot**
+- 🌱 I’m currently learning **image processing with OpenCV**
 - ⚙️ I use daily: `.ts`, `.java`, `.js`, `.cs`, `.dart`
 - ⚡ Fun fact: I've been a musician for over 14 years
 
