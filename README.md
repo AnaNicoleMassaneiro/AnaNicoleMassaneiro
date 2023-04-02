@@ -10,6 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananicolemassaneiro&hide_progress=true)](https://github.com/ananicolemassaneiro/github-readme-stats)
 
+<a href="https://github.com/ananicolemassaneiro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ananicolemassaneiro&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ananicolemassaneiro/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ananicolemassaneiro&repo=convoychat" />
+</a>
 
 ## <a href="https://ananicolemassaneiro.github.io/" alt="Perfil Online" target="_blank">More about me</a>
 
