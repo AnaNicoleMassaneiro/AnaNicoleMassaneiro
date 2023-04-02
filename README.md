@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananicolemassaneiro&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananicolemassaneiro&hide_progress=true)](https://github.com/ananicolemassaneiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananicolemassaneiro&hide_progress=false)](https://github.com/ananicolemassaneiro/github-readme-stats)
 
 ## <a href="https://ananicolemassaneiro.github.io/" alt="Perfil Online" target="_blank">More about me</a>
 
