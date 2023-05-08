@@ -14,7 +14,7 @@
 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ana-nicole-massaneiro/">LinkedIn</a>
 
 
-### My Statistics: 
+## My Statistics: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananicolemassaneiro&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
