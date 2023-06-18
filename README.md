@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working at **IBM**
 - 📖 I'm graduated, post graduated and studying master's degree in informatics at UFPR
-- 🌱 I’m currently learning **image processing with OpenCV and Python**
+- 🌱 I’m currently learning **image processing and computer vision**
 - ⚙️ I use daily: `.ts`, `.java`, `.js`, `.cs`, `.dart`, `.py`
 - ⚡ Fun fact: I've been a musician for over 14 years
 
