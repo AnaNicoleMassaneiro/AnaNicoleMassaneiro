@@ -14,17 +14,14 @@
 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ana-nicole-massaneiro/">LinkedIn</a>
 
 
-## My Statistics: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananicolemassaneiro&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+## **GitHub Estatísticas**
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ananicolemassaneiro&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ananicolemassaneiro&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ananicolemassaneiro&show_icons=true" />
-</picture>
+<a href="https://github.com/Gurupreet">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaNicoleMassaneiro&theme=dracula&line_height=40&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=AnaNicoleMassaneiro&show_icons=true&theme=dracula&line_height=40" alt="**Ana Nicole Massaneiro** github stats"/>
+</a>
+
+<br>
