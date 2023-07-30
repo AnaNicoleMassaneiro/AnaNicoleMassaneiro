@@ -13,15 +13,3 @@
 ### Find me around the web 🌎:
 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ana-nicole-massaneiro/">LinkedIn</a>
 
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaNicoleMassaneiro&theme=dracula&line_height=40&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=AnaNicoleMassaneiro&show_icons=true&theme=dracula&line_height=40" alt="**Ana Nicole Massaneiro** github stats"/>
-</a>
-
-<br>
